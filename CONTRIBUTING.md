@@ -8,7 +8,7 @@ Before sending any pull request, make sure that you followed this list:
 - Make sure to inform maintainer about the changes you would like to add/remove.
 - Communicate with project maintainer via GitHub issues.
 - Before opening any issue, check if there is already an open issue on same topic.
-- For **indentation** use **Tab with 2 space**. If your indentation is not proper, your pull request will not be accepted.
+- For **indentation** use **Tab with 2 space** everywhere. If your indentation is not proper, your pull request will not be accepted.
 - Include **comments** wherever required. 
 - While adding any external packages, add entry of that package into package.json.
 - Use **small but meaningful** commit messages.

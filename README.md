@@ -1,13 +1,21 @@
-# 2x-productivity
+# 2x Productivity
 Boost your productivity by smartly managing your time with 2x Productivity.
 
-This is a multiplatform desktop app used to efficiently utilize your time by prioritizing your tasks. You can set alarms for important tasks. You can add, see, update and delete tasks.
+2x Productivity is a multiplatform desktop app used to efficiently utilize your time by prioritizing your tasks. You can set alarms for important tasks. You can add, see, update and delete tasks.
+
+
+## Features of 2x Productivity
+- Manage Tasks
+- Set alarms
+- Watch analytics
+- Mark events on calendar
+- Cross platform
 
 
 ## Technologies used in this project:
 - HTML
 - CSS
-- JS
+- JavaScript
 - Electron JS
 
 
