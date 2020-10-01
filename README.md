@@ -45,6 +45,16 @@ To create such stunning desktop apps, you just need to know HTML, CSS and **Java
 Desktop App is used because it can trigger notifications to user, set alarms, etc. By creating desktop app, users can save their data to their local machine, which eliminates the risk of clearing localstorage of browsers.
 
 
+## How to run this project?
+
+- Download and install **Node JS** and **Git CLI**.
+- _**Clone**_ this repository using **Git CLI**.
+- Change your current directory to where _package.json_ is present.
+- From terminal, give command: `npm i`. This will download all the necessary dependencies.
+- To start the desktop app, give command: `npm start`.
+- **For any doubts or queries, you can open an issue.**
+
+
 ## How to contribute to this project?
 
 - Read **[contribution guidelines](CONTRIBUTING.md)** before sending any Pull Request (PR). 
