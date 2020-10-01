@@ -1,0 +1,23 @@
+{
+  "name": "2x-productivity",
+  "version": "1.0.0",
+  "description": "A desktop application to increase productivity",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clubgamma/2x-productivity.git"
+  },
+  "author": "chirayu-joshi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/clubgamma/2x-productivity/issues"
+  },
+  "homepage": "https://github.com/clubgamma/2x-productivity#readme",
+  "dependencies": {
+    "electron": "^10.1.3"
+  },
+  "devDependencies": {}
+}
